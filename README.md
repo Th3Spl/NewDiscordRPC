@@ -24,9 +24,14 @@ This is the aspect of the GUI:
 
 ![GUI image](https://i.imgur.com/VBacdiT.png)
 
+###My Links:
+- [GitHub Profile](https://github.com/Th3Spl)
+- [Discord](https://bit.ly/3OkuXMT)
+- [Website](https://wanted.lol/th3spl)
+
 ### Open Source info:
 And if you want to change something in the code or maybe you want to 
 customize the GUI you can do it by yourself indeed you can download the 
 source code of this project from this GitHub respository.
 <br>
-<p style="text-align: center;">(Consider that i made this application for fun and i didn't optimize the code so don't bother me if is bad written!)</p>
+(Consider that i made this application for fun and i didn't optimize the code so don't bother me if is bad written!)
