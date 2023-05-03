@@ -16,7 +16,7 @@ modify, i used some opem source NuGet packeges:
 
 This is the aspect of the GUI:
 
-![GUI image]('https://i.imgur.com/VBacdiT.png')
+![GUI image](https://i.imgur.com/VBacdiT.png)
 
 And if you want to change something in the code or maybe you want to 
 customize the GUI you can do it by yourself indeed you can download the 
