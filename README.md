@@ -4,10 +4,10 @@ Simple C# program that allows the user to create his own DicordRPC
 with a lot of different features
 
 ### Examples:
-[X] - Save Presets
-[X] - Import Presets
-[X] - Images
-[X] - Buttons
+- [X] Save Presets
+- [X] Import Presets
+- [X] Images
+- [X] Buttons
 
 ### Presentation:
 During the realization of this project i made a simple GUI that you can 
