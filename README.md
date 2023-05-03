@@ -4,6 +4,7 @@ Simple C# program that allows the user to create his own DicordRPC
 with a lot of different features
 
 ### Examples:
+- [x] Minimize To System Tray
 - [X] Save Presets
 - [X] Import Presets
 - [X] Images
