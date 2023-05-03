@@ -1,14 +1,14 @@
-# New Discord RPC
+# 💎 New Discord RPC
 
 Simple C# program that allows the user to create his own DicordRPC 
 with a lot of different features.
 
-### Features:
-- [x] Minimize To System Tray
-- [X] Save Presets
-- [X] Import Presets
-- [X] Images
-- [X] Buttons
+### 👑Features:
+- [x] 🔵Minimize To System Tray
+- [X] 🟣Save Presets
+- [X] 🟠Import Presets
+- [X] 🟢Images
+- [X] 🟡Buttons
 
 Now you can save your own presets and then you can import them whenever you want so you
 don't have to write them again, you can also minimize the application to the system tray
