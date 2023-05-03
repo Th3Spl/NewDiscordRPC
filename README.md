@@ -24,7 +24,7 @@ This is the aspect of the GUI:
 
 ![GUI image](https://i.imgur.com/VBacdiT.png)
 
-###My Links:
+### My Links:
 - [GitHub Profile](https://github.com/Th3Spl)
 - [Discord](https://bit.ly/3OkuXMT)
 - [Website](https://wanted.lol/th3spl)
