@@ -27,4 +27,5 @@ This is the aspect of the GUI:
 And if you want to change something in the code or maybe you want to 
 customize the GUI you can do it by yourself indeed you can download the 
 source code of this project from this GitHub respository.
+<br>
 (Consider that i made this application for fun and i didn't optimize the code so don't bother me if is bad written!)
