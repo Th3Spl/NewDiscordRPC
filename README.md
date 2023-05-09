@@ -17,7 +17,7 @@ now you can also add you assets and also a button with a URL.
 
 ### Presentation:
 During the realization of this project i made a simple GUI that you can 
-modify, i used some opem source NuGet packeges:
+modify, i used some open source NuGet packeges:
 (RjCodeAdvance.RjControls, DiscordRichPresence)
 
 This is the aspect of the GUI:
