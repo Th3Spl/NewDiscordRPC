@@ -30,7 +30,7 @@ This is the aspect of the GUI:
 - [Website](https://wanted.lol/th3spl)
 
 ### Open Source info:
-And if you want to change something in the code or maybe you want to 
+If you want to change something in the code or maybe you want to 
 customize the GUI you can do it by yourself indeed you can download the 
 source code of this project from this GitHub respository.
 <br>
